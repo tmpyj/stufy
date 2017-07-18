@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git creating a new branch And simple.
 a hashdfah  nihao zheyang.
+insert a git
